@@ -10,4 +10,10 @@ Also it can be defined as the capability of a machine to imitate human behaviour
     The library also contain built-in function and exceptions object that can beused by all python code without the need of an import statment.
     The bulk of the library,however consist of a collection of modules.
  # PYTHON LIBRARIES.
+   Python libraries are collection of pre-written modules  that provide functions and methods to perform specific tasks.
+ # TYPES OF PYTHON LIBRARIES.
+    Web development.
+    Data science.
+    Machine learning.
     
+   
