@@ -15,5 +15,16 @@ Also it can be defined as the capability of a machine to imitate human behaviour
     Web development.
     Data science.
     Machine learning.
-    
-   
+ ✨To use python libraries in your code,you must first ensure the library is avaliable on your system  and then use an import statement at the beginning of the script.
+ # HOW TO RUN YOUR CODE.
+ # 1. Install the library.
+       You must install it using pip,Python's manager.
+        pip install 
+        <name>
+ # 2.Write and Save Your Code.
+     Create a text file ,write your python code,and save it with a .py
+     
+  # 3.Run your code.
+     To execute your script.
+     python
+     <file>.py
